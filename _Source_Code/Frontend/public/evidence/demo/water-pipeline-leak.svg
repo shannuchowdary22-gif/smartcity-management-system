@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Water pipeline leak demonstration illustration</title>
+  <desc id="desc">Illustration of a leaking underground water pipe beneath a city street. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#1a3047"/><rect y="210" width="800" height="92" fill="#414d5a"/><rect y="302" width="800" height="148" fill="#5c493d"/>
+  <path d="M0 211h800" stroke="#d2d8dc" stroke-width="8"/><path d="M365 303v75h225" fill="none" stroke="#9ab2c1" stroke-width="34"/>
+  <path d="M368 306v69" stroke="#536d7d" stroke-width="7"/><path d="M374 286c0-36 40-37 40-2 0 22-20 42-20 42s-20-18-20-40z" fill="#51c7f2"/>
+  <path d="M408 328c0-23 27-24 27-1 0 15-13 29-13 29s-14-13-14-28z" fill="#77ddff"/>
+  <path d="M418 212v-49h65v49m22 0v-73h62v73" fill="#28394e" stroke="#65768b" stroke-width="4"/>
+  <path d="M431 178h15v20h-15zm29 0h15v20h-15zm56-20h15v20h-15zm30 0h15v20h-15z" fill="#c5d6e6" opacity=".58"/>
+  <path d="M0 247h800" stroke="#b0bbc4" stroke-width="3" stroke-dasharray="40 24" opacity=".6"/>
+  <rect x="20" y="20" width="310" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#86dbff" font-family="Arial,sans-serif" font-size="17" font-weight="700">UNDERGROUND WATER LEAK</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#ffd27c" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT CITIZEN EVIDENCE</text>
+</svg>

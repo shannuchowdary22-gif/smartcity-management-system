@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Cleared storm drain demonstration illustration</title>
+  <desc id="desc">Illustration of a clear storm drain and dry roadway after maintenance. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#20364b"/><rect y="190" width="800" height="260" fill="#4b5661"/>
+  <path d="M0 281h800" stroke="#a6b0b9" stroke-width="6"/><path d="M0 319h800" stroke="#bdc7cd" stroke-width="3"/>
+  <path d="M244 258h312v66H244z" rx="8" fill="#18212d" stroke="#b1bcc5" stroke-width="8"/>
+  <path d="M270 268v46m30-46v46m30-46v46m30-46v46m30-46v46m30-46v46m30-46v46m30-46v46m30-46v46" stroke="#a8b4bd" stroke-width="8"/>
+  <path d="M90 189v-67h76v67m27 0v-99h86v99" fill="#2d4055" stroke="#6c7d8f" stroke-width="4"/>
+  <path d="M105 146h16v20h-16zm34 0h16v20h-16zm73-35h20v23h-20zm38 0h20v23h-20z" fill="#e1e8e8" opacity=".65"/>
+  <path d="M601 248l20-25 21 25" fill="none" stroke="#82dbbe" stroke-width="7" stroke-linecap="round"/>
+  <rect x="20" y="20" width="330" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#8ce4ce" font-family="Arial,sans-serif" font-size="17" font-weight="700">CLEARED STORM DRAIN · EXAMPLE</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#a7f3d0" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT VERIFIED REPAIR EVIDENCE</text>
+</svg>

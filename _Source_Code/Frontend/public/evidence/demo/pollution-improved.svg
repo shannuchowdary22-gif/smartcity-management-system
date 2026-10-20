@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Improved air quality demonstration illustration</title>
+  <desc id="desc">Illustration of a clear city skyline and air-quality sensor. Demonstration only.</desc>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#4a87a2"/><stop offset="1" stop-color="#b7d7ca"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#sky)"/><circle cx="666" cy="94" r="44" fill="#ffe9a4"/>
+  <path d="M0 314h800v136H0z" fill="#3a5553"/><path d="M70 314V187h96v127m24 0V148h116v166m29 0V210h105v104m27 0V170h96v144" fill="#476772" stroke="#a7c7c2" stroke-width="4"/>
+  <path d="M86 213h18v23H86zm39 0h18v23h-18zm-39 42h18v23H86zm39 0h18v23h-18zm96-80h22v25h-22zm43 0h22v25h-22zm-65 50h22v25h-22zm43 0h22v25h-22z" fill="#e4e4ba" opacity=".8"/>
+  <path d="M603 314v-87h42v87" fill="#17495b" stroke="#8ee3dd" stroke-width="5"/><circle cx="624" cy="249" r="10" fill="#73ffd1"/>
+  <path d="M0 348h800" stroke="#a9c5b8" stroke-width="4"/>
+  <rect x="20" y="20" width="348" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#a8f2cf" font-family="Arial,sans-serif" font-size="17" font-weight="700">AIR QUALITY IMPROVEMENT · EXAMPLE</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#a7f3d0" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT VERIFIED REPAIR EVIDENCE</text>
+</svg>

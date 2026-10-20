@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Repaired public infrastructure demonstration illustration</title>
+  <desc id="desc">Illustration of a repaired pedestrian path with an intact barrier. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#20354a"/><path d="M0 210h800v240H0z" fill="#52606b"/>
+  <path d="M0 278h800" stroke="#c1ccd2" stroke-width="9"/><path d="M0 350h800" stroke="#c1ccd2" stroke-width="5"/>
+  <path d="M250 210v148m300-148v148" stroke="#d1dce0" stroke-width="16"/>
+  <path d="M250 238h300M250 286h300M250 334h300" stroke="#dbe5e8" stroke-width="8"/>
+  <path d="M325 356h150" stroke="#82dbbe" stroke-width="10" stroke-linecap="round"/><path d="M366 337l-22 21 22 21m68-42 22 21-22 21" fill="none" stroke="#82dbbe" stroke-width="8"/>
+  <path d="M110 208v-82h79v82m23 0v-112h88v112" fill="#2d4257" stroke="#718398" stroke-width="4"/>
+  <path d="M126 158h17v20h-17zm33 0h17v20h-17zm72-36h20v23h-20zm39 0h20v23h-20z" fill="#e0e8e9" opacity=".65"/>
+  <rect x="20" y="20" width="348" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#8ce4ce" font-family="Arial,sans-serif" font-size="17" font-weight="700">SAFE PUBLIC PATH · REPAIR EXAMPLE</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#a7f3d0" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT VERIFIED REPAIR EVIDENCE</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Sparking streetlight at a road junction</title>
+  <desc id="desc">Photograph of roadside streetlights with a visible electrical arc at the lamp head.</desc>
+  <defs>
+    <filter id="arc-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <image href="streetlight-pole-42.jpg" width="800" height="450" preserveAspectRatio="xMidYMid slice"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#arc-glow)">
+    <path d="M582 139c-2 5 4 6 0 10s-7 5-3 8 4 5 0 9"
+          stroke="#8feaff" stroke-width="4" opacity=".7"/>
+    <path d="M582 139c-2 5 4 6 0 10s-7 5-3 8 4 5 0 9"
+          stroke="#fff" stroke-width="1.8"/>
+    <path d="M580 151l-5-3m5 3 5-4m-8 10-5 2m9-1 5 3"
+          stroke="#fff" stroke-width="1.2"/>
+  </g>
+  <circle cx="582" cy="144" r="9" fill="#c8f8ff" opacity=".2"/>
+</svg>

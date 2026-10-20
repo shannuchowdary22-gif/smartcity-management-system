@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Blocked storm drain demonstration illustration</title>
+  <desc id="desc">Illustration of a clogged storm drain with pooled rainwater. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#203449"/><rect y="190" width="800" height="260" fill="#4a535e"/>
+  <path d="M0 280c90-24 145 19 231 0s152-18 235 0 167 14 334-7v177H0z" fill="#2584a4" opacity=".72"/>
+  <path d="M246 266h307v70H246z" rx="9" fill="#161f2b" stroke="#a2adb8" stroke-width="8"/>
+  <path d="M270 277v48m29-48v48m29-48v48m29-48v48m29-48v48m29-48v48m29-48v48m29-48v48m29-48v48" stroke="#8e9aa7" stroke-width="8"/>
+  <path d="M312 248l25 18-20 16m93-43 21 24-22 11m64-18 21 13-10 25" fill="none" stroke="#c7a06a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M75 189v-64h72v64m23 0v-96h76v96" fill="#293c52" stroke="#61748c" stroke-width="4"/>
+  <path d="M89 146h17v21H89zm31 0h17v21h-17zm62-29h18v21h-18zm35 0h18v21h-18z" fill="#d6e1e9" opacity=".55"/>
+  <rect x="20" y="20" width="300" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#86dbff" font-family="Arial,sans-serif" font-size="17" font-weight="700">BLOCKED STORM DRAIN</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#ffd27c" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT CITIZEN EVIDENCE</text>
+</svg>

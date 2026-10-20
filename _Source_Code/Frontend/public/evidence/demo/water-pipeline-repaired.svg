@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Repaired water pipeline demonstration illustration</title>
+  <desc id="desc">Illustration of a sealed municipal water pipe with a repair collar and no leak. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#20364c"/><path d="M0 188h800v112H0z" fill="#495562"/><path d="M0 300h800v150H0z" fill="#645244"/>
+  <path d="M130 346h516" stroke="#a8c2d2" stroke-width="42"/><path d="M130 346h516" stroke="#536e80" stroke-width="10"/>
+  <path d="M358 318v56m18-56v56m18-56v56m18-56v56" stroke="#83d5df" stroke-width="8"/><path d="M350 313h70v66h-70z" fill="none" stroke="#dbedf0" stroke-width="5"/>
+  <path d="M405 188v-64h61v64m22 0v-95h75v95" fill="#2b4055" stroke="#6a7e91" stroke-width="4"/>
+  <path d="M418 147h15v19h-15zm28 0h15v19h-15zm57-28h18v21h-18zm35 0h18v21h-18z" fill="#e4d79c" opacity=".7"/>
+  <path d="M0 229h800" stroke="#c0cbd3" stroke-width="4" stroke-dasharray="34 24" opacity=".7"/>
+  <rect x="20" y="20" width="342" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#86dbff" font-family="Arial,sans-serif" font-size="17" font-weight="700">SEALED WATER PIPE · REPAIR EXAMPLE</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#a7f3d0" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT VERIFIED REPAIR EVIDENCE</text>
+</svg>

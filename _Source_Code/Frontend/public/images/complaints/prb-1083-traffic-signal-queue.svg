@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Malfunctioning traffic signal above a congested road</title>
+  <desc id="desc">Photograph of heavy traffic in Delhi with a visibly malfunctioning red traffic signal composited in the foreground.</desc>
+  <defs>
+    <filter id="signal-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="signal-case" x2="1">
+      <stop stop-color="#151b22"/>
+      <stop offset=".5" stop-color="#3a4148"/>
+      <stop offset="1" stop-color="#11161c"/>
+    </linearGradient>
+  </defs>
+  <image href="traffic-signal-malfunction.jpg" width="800" height="450" preserveAspectRatio="xMidYMid slice"/>
+  <path d="M704 0v450" stroke="#202830" stroke-width="12"/>
+  <path d="M704 0v450" stroke="#707981" stroke-width="2" opacity=".6"/>
+  <rect x="648" y="34" width="112" height="189" rx="18" fill="#10151b" stroke="#89939a" stroke-width="5"/>
+  <rect x="655" y="41" width="98" height="175" rx="13" fill="url(#signal-case)"/>
+  <circle cx="704" cy="84" r="25" fill="#ff2727" filter="url(#signal-glow)"/>
+  <circle cx="704" cy="84" r="17" fill="#ff4141"/>
+  <circle cx="704" cy="147" r="17" fill="#78601e" opacity=".55"/>
+  <circle cx="704" cy="198" r="17" fill="#1e573b" opacity=".5"/>
+  <path d="M668 77l-9-8m81 2 9-9m-80 47-10 7m81-7 10 8" stroke="#ffd46b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M670 223v45" stroke="#1d242b" stroke-width="12"/>
+</svg>

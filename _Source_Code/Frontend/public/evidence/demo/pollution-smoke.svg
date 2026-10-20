@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Urban air pollution demonstration illustration</title>
+  <desc id="desc">Illustration of an urban emissions plume beside a city monitoring sensor. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#27394c"/><path d="M0 315h800v135H0z" fill="#39434c"/>
+  <path d="M94 314V169h111v145m22 0V132h128v182m37 0V197h93v117" fill="#34485c" stroke="#66788a" stroke-width="5"/>
+  <path d="M112 192h22v23h-22zm46 0h22v23h-22zm-46 45h22v23h-22zm46 0h22v23h-22zm84-69h24v26h-24zm48 0h24v26h-24zm-72 50h24v25h-24zm48 0h24v25h-24z" fill="#d5c68b" opacity=".65"/>
+  <path d="M464 314V232h37v-51h40v133" fill="#566b7a" stroke="#96a7b2" stroke-width="5"/>
+  <path d="M519 178c-25-30 19-37 4-68 51 28 6 42 35 62 19-20 30-5 31 11 2 23-26 31-58 27" fill="#9ba4a2" opacity=".75"/>
+  <path d="M612 314v-76h40v76" fill="#173d50" stroke="#52c5e3" stroke-width="5"/><circle cx="632" cy="258" r="9" fill="#58e1d1"/>
+  <path d="M0 350h800" stroke="#9da7a9" stroke-width="4"/>
+  <rect x="20" y="20" width="318" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#9ce4d0" font-family="Arial,sans-serif" font-size="17" font-weight="700">AIR QUALITY / EMISSIONS REPORT</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#ffd27c" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT CITIZEN EVIDENCE</text>
+</svg>

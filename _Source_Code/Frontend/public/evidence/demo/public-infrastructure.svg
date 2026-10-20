@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Public infrastructure hazard demonstration illustration</title>
+  <desc id="desc">Illustration of a damaged public footpath and barrier. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#1d3047"/><path d="M0 210h800v240H0z" fill="#485563"/>
+  <path d="M0 278h800" stroke="#aeb8c1" stroke-width="9"/><path d="M0 350h800" stroke="#c4ced5" stroke-width="5"/>
+  <path d="M250 210v148m300-148v148" stroke="#c2ccd5" stroke-width="16"/>
+  <path d="M250 238h300M250 286h300M250 334h300" stroke="#d5dce2" stroke-width="8"/>
+  <path d="M366 358l-23 20 34 18 31-24-16-21z" fill="#111a27" stroke="#a1acb6" stroke-width="6"/>
+  <path d="M112 208v-79h79v79m27 0v-112h87v112" fill="#2c3e53" stroke="#62748a" stroke-width="4"/>
+  <path d="M126 158h17v20h-17zm33 0h17v20h-17zm73-35h20v23h-20zm38 0h20v23h-20z" fill="#d6e2eb" opacity=".55"/>
+  <rect x="20" y="20" width="330" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#f4bd62" font-family="Arial,sans-serif" font-size="17" font-weight="700">PUBLIC INFRASTRUCTURE HAZARD</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#ffd27c" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT CITIZEN EVIDENCE</text>
+</svg>

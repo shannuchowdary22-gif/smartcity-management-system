@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Repaired road demonstration illustration</title>
+  <desc id="desc">Illustration of a patched road surface and marked crossing. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#27394e"/><rect y="120" width="800" height="330" fill="#394553"/>
+  <path d="M0 145h800" stroke="#6d7c8d" stroke-width="4"/><path d="M0 172h800" stroke="#6d7c8d" stroke-width="3"/>
+  <path d="M227 268h348v77H227z" rx="16" fill="#4b5966" stroke="#8e9ba6" stroke-width="6"/>
+  <path d="M0 332h800" stroke="#f3cb62" stroke-width="6" stroke-dasharray="42 30"/>
+  <path d="M84 169v96m632-96v96" stroke="#eff2f5" stroke-width="10" stroke-dasharray="26 17"/>
+  <path d="M118 358h90m-90 20h90m384-20h90m-90 20h90" stroke="#f4f0e1" stroke-width="17"/>
+  <rect x="20" y="20" width="302" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#8ce4ce" font-family="Arial,sans-serif" font-size="17" font-weight="700">ROAD PATCH · REPAIR EXAMPLE</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#a7f3d0" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT VERIFIED REPAIR EVIDENCE</text>
+</svg>

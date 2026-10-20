@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Repaired streetlight demonstration illustration</title>
+  <desc id="desc">Illustration of a properly installed illuminated streetlight at a junction. Demonstration only, not verified repair evidence.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#102745"/><stop offset="1" stop-color="#35465a"/></linearGradient>
+    <linearGradient id="beam" x2="0" y2="1"><stop stop-color="#ffe79a" stop-opacity=".34"/><stop offset="1" stop-color="#ffe79a" stop-opacity="0"/></linearGradient>
+    <linearGradient id="road" x2="0" y2="1"><stop stop-color="#344353"/><stop offset="1" stop-color="#151d2d"/></linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <circle cx="681" cy="78" r="28" fill="#e4edf8" opacity=".75"/>
+  <path d="M0 245h800v205H0z" fill="url(#road)"/>
+  <path d="M0 360h800" stroke="#f5cf63" stroke-width="5" stroke-dasharray="44 34" opacity=".85"/>
+  <path d="M127 245V128l55-35h90" fill="none" stroke="#bac6d5" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M267 82h43l10 14h-67z" fill="#dbe8f7" stroke="#f8dc86" stroke-width="4"/>
+  <path d="M274 98L168 278h245L310 98z" fill="url(#beam)"/>
+  <path d="M153 246h80l18 27h-116z" fill="#687687"/>
+  <path d="M483 245v-47h58v47M566 245v-73h65v73" fill="#273b50" stroke="#64758a" stroke-width="4"/>
+  <path d="M496 210h14v18h-14zm28 0h14v18h-14zm52-20h15v20h-15zm31 0h15v20h-15z" fill="#ffe8a6" opacity=".88"/>
+  <path d="M0 292h800" stroke="#8c9cad" stroke-width="3" opacity=".6"/>
+  <rect x="20" y="20" width="356" height="37" rx="8" fill="#081326" opacity=".9"/>
+  <text x="38" y="45" fill="#7be7bd" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1">STREETLIGHT · REPAIR EXAMPLE</text>
+  <rect x="0" y="390" width="800" height="60" fill="#07101f" opacity=".95"/>
+  <text x="24" y="426" fill="#a7f3d0" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="1.5">DEMO ILLUSTRATION · NOT VERIFIED REPAIR EVIDENCE</text>
+</svg>

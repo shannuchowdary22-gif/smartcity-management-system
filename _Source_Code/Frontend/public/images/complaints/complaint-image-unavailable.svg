@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title">
+  <title id="title">Complaint image unavailable</title>
+  <rect width="640" height="400" fill="#0b142c"/>
+  <rect x="232" y="112" width="176" height="136" rx="16" fill="#111d38" stroke="#475569" stroke-width="4"/>
+  <circle cx="280" cy="160" r="16" fill="#64748b"/>
+  <path d="M248 224l48-48 32 32 24-24 40 40z" fill="#334155"/>
+  <path d="M286 300h68" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+</svg>

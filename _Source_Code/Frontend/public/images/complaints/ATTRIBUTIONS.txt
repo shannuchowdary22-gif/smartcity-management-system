@@ -1,0 +1,26 @@
+Complaint demo image credits
+
+PRB-1081 (prb-1081-water-leak.jpg)
+“Flow from leaking water pipe in Churchland Lane, Sedlescombe” by Patrick Roper,
+via Geograph Britain and Ireland. CC BY-SA 2.0.
+https://commons.wikimedia.org/wiki/File:Flow_from_leaking_water_pipe_in_Churchland_Lane,_Sedlescombe_-_geograph.org.uk_-_7250470.jpg
+https://creativecommons.org/licenses/by-sa/2.0/
+
+PRB-1075 (streetlight-pole-42.jpg)
+“Broken lamppost - streetlight collision on A899 Livingston Road” by Simon
+Johnston, via Geograph Britain and Ireland. Photo: CC BY-SA 2.0.
+https://commons.wikimedia.org/wiki/File:Broken_lamppost_-_streetlight_collision_on_A899_Livingston_Road_-_geograph.org.uk_-_990599.jpg
+https://creativecommons.org/licenses/by-sa/2.0/
+
+PRB-1075 fallback (prb-1075-streetlight-fault.svg)
+“Broken lamppost - streetlight on A899 Livingston Road” by Simon Johnston,
+via Geograph Britain and Ireland. Photo: CC BY-SA 2.0. The SVG composite adds
+a visual electrical arc to depict the reported fault.
+https://commons.wikimedia.org/wiki/File:Broken_lamppost_-_streetlight_on_A899_Livingston_Road_-_geograph.org.uk_-_957464.jpg
+https://creativecommons.org/licenses/by-sa/2.0/
+
+PRB-1083 (traffic-signal-malfunction.jpg and prb-1083-traffic-signal-queue.svg)
+“Trafficjamdelhi.jpg” by NOMAD. Photo: CC BY 2.0. The SVG adds a traffic signal
+overlay to depict the reported fault.
+https://commons.wikimedia.org/wiki/File:Trafficjamdelhi.jpg
+https://creativecommons.org/licenses/by/2.0/

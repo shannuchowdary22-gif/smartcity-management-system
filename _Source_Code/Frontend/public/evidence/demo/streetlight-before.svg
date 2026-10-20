@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Streetlight fault demonstration illustration</title>
+  <desc id="desc">Illustration of a damaged streetlight at a junction. Demonstration only, not citizen evidence.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#101d3b"/><stop offset="1" stop-color="#26354b"/></linearGradient>
+    <linearGradient id="road" x2="0" y2="1"><stop stop-color="#303b4d"/><stop offset="1" stop-color="#121a2a"/></linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <circle cx="670" cy="83" r="36" fill="#ced8e8" opacity=".65"/>
+  <path d="M0 245h800v205H0z" fill="url(#road)"/>
+  <path d="M0 293h800M0 306h800" stroke="#78879b" stroke-width="3" opacity=".55"/>
+  <path d="M0 360h800" stroke="#f5c84b" stroke-width="5" stroke-dasharray="44 34" opacity=".8"/>
+  <path d="M104 245V139l-28-24h123" fill="none" stroke="#8795a9" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M194 115h40l9 13h-62z" fill="#46566d" stroke="#a9b5c6" stroke-width="4"/>
+  <path d="M198 128l-9 12 13-4-8 14 21-20" fill="none" stroke="#ff8e57" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M198 128l-9 12 13-4-8 14 21-20" fill="none" stroke="#ffe18a" stroke-width="2"/>
+  <path d="M125 247h77l18 26H107z" fill="#5d6877"/>
+  <path d="M487 245v-47h58v47M568 245v-73h65v73" fill="#24344b" stroke="#53647c" stroke-width="4"/>
+  <path d="M500 211h13v18h-13zm27 0h13v18h-13zm53-21h15v20h-15zm30 0h15v20h-15z" fill="#a7bad0" opacity=".45"/>
+  <path d="M307 247l18-57h48l18 57" fill="#d34b54" opacity=".8"/>
+  <path d="M329 215h39m-46 16h52" stroke="#f7dce0" stroke-width="8" opacity=".8"/>
+  <rect x="20" y="20" width="336" height="37" rx="8" fill="#081326" opacity=".9"/>
+  <text x="38" y="45" fill="#f4bd62" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1">STREETLIGHT FAULT · JUNCTION</text>
+  <rect x="0" y="390" width="800" height="60" fill="#07101f" opacity=".95"/>
+  <text x="24" y="426" fill="#ffd27c" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="1.5">DEMO ILLUSTRATION · NOT CITIZEN EVIDENCE</text>
+</svg>

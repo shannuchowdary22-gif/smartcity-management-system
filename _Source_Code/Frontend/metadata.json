@@ -1,0 +1,6 @@
+{
+  "name": "SmartCity IoT Command & Citizen Hub",
+  "description": "Smart city management platform with Citizen problem reporting & tracking, Admin resolution center, and real-time IoT monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

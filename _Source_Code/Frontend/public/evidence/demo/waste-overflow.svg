@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Overflowing municipal waste bin demonstration illustration</title>
+  <desc id="desc">Illustration of an overflowing waste bin and littered pavement. Demonstration only.</desc>
+  <rect width="800" height="450" fill="#18283a"/><path d="M0 300h800v150H0z" fill="#293747"/>
+  <path d="M0 320h800" stroke="#788494" stroke-width="5"/><path d="M42 372h716" stroke="#b4a67b" stroke-width="6" stroke-dasharray="34 23"/>
+  <path d="M275 178h250l-24 192H299z" fill="#227d79" stroke="#72cbc1" stroke-width="7"/>
+  <path d="M260 168h280v25H260z" rx="6" fill="#80d0c4"/><path d="M324 208v119m62-119v119m62-119v119" stroke="#145c5a" stroke-width="10"/>
+  <path d="M311 167l-33-48 62-19 27 58m95 8 20-59 60 8-8 53" fill="#f0c36c" stroke="#f6d995" stroke-width="5"/>
+  <path d="M357 159l30-67 53 19-22 57" fill="#d57861" stroke="#f0a28b" stroke-width="5"/>
+  <path d="M175 355l39-16 24 22-22 24-43-4zm445-8 51-18 18 34-33 19-42-13z" fill="#e8d8b2"/>
+  <rect x="20" y="20" width="290" height="37" rx="8" fill="#081326" opacity=".9"/><text x="38" y="45" fill="#8ce4ce" font-family="Arial,sans-serif" font-size="17" font-weight="700">OVERFLOWING WASTE BIN</text>
+  <rect y="390" width="800" height="60" fill="#07101f" opacity=".95"/><text x="24" y="426" fill="#ffd27c" font-family="Arial,sans-serif" font-size="19" font-weight="700">DEMO ILLUSTRATION · NOT CITIZEN EVIDENCE</text>
+</svg>
